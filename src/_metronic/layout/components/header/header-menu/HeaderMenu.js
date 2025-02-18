@@ -113,7 +113,7 @@ export function HeaderMenu({ layoutProps }) {
       menu_id: "01ce3589-a781-4039-ac20-7fd61ee3f063",
       menu_name: "masters",
       title: "Courses",
-      url: "/courses",
+      url: "/course",
       icon: "/Files/Folder.svg",
       childs: [],
     },
